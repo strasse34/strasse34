@@ -8,11 +8,7 @@
 
 <h3 align="left">Visit Live Projects:</h3>
 
-[PP1](https://strasse34.github.io/pp1/) -- [PP2](https://strasse34.github.io/pp2/)
-[PP3](https://ci-to-do-list-7e3f284eb751.herokuapp.com//)
-[PP4](https://migmig-bcca17837059.herokuapp.com/)
-[PP5](https://ride-review-63e228ade7d7.herokuapp.com/)
-[PP5-drf-api](https://rr-drf-api-d27ae746a106.herokuapp.com/)
+[PP1](https://strasse34.github.io/pp1/) - [PP2](https://strasse34.github.io/pp2/) - [PP3](https://ci-to-do-list-7e3f284eb751.herokuapp.com//) - [PP4](https://migmig-bcca17837059.herokuapp.com/) - [PP5](https://ride-review-63e228ade7d7.herokuapp.com/) - [PP5-drf-api](https://rr-drf-api-d27ae746a106.herokuapp.com/)
 
 
 
